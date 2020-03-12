@@ -1,0 +1,6 @@
+var names = [
+	"Takuto Yoshikai",
+	"Hotaka Okumoto",
+	"Futa Takahashi"
+];
+
